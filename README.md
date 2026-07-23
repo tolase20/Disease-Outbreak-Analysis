@@ -1,83 +1,103 @@
-# 🦠 Disease Outbreak Analysis
+# 🦠 Disease Outbreak Tracker
 
 ## 📌 Project Overview
 
-This project analyzes a disease outbreak dataset using Python in Jupyter Notebook. The aim is to explore the dataset, clean the data, identify patterns, and generate insights that can support disease surveillance and public health decision-making.
+This project was completed as part of the Python Study Group practical exercise. It demonstrates the application of fundamental Python concepts to analyze disease outbreak reports and generate useful information from the provided data.
+
+The project focuses on writing Python code to calculate outbreak statistics, evaluate conditions, and compare reports from two different states.
 
 ---
 
-## 🎯 Objectives
+## 🎯 Project Objectives
 
-- Explore the disease outbreak dataset.
-- Clean and prepare the data for analysis.
-- Perform exploratory data analysis (EDA).
-- Identify trends and patterns in disease occurrence.
-- Present findings through visualizations.
+- Apply Python fundamentals to a real-world case study.
+- Store outbreak information using variables.
+- Perform arithmetic operations on outbreak data.
+- Use comparison and logical operators to evaluate outbreak conditions.
+- Generate a readable outbreak report.
+- Compare outbreak reports from two different states.
 
 ---
 
-## 🛠️ Technologies Used
+## 📊 Dataset
+
+The dataset was provided as part of the Python Study Group practical exercise.
+
+The dataset contains outbreak information such as:
+
+- Disease name
+- State
+- Total reported cases
+- New cases
+- Recovered cases
+- Deaths
+- Available hospital beds
+- Minimum safe bed capacity
+
+---
+
+## 🛠 Technologies Used
 
 - Python
 - Jupyter Notebook
-- Pandas
-- NumPy
-- Matplotlib
 
 ---
 
-## 📂 Project Structure
+## 📂 Repository Contents
 
-```
-Disease-Outbreak-Analysis/
-│
-├── Disease Outbreak tracker (1).ipynb
-├── README.md
-├── Screenshot (3).png
-├── Screenshot (4).png
-├── Screenshot (5).png
-├── Screenshot (6).png
-└── Screenshot (7).png
-```
+- `Disease Outbreak tracker (1).ipynb` – Python notebook containing the project solution.
+- `README.md` – Project documentation.
+- Screenshots showing the Python code implementation.
 
 ---
 
-## 📸 Python Implementation (Jupyter Notebook)
+## 📸 Python Code Screenshots
 
 ### Screenshot 1
-![Screenshot](Screenshot%20(3).png)
+![Screenshot 1](Screenshot%20(3).png)
 
 ### Screenshot 2
-![Screenshot](Screenshot%20(4).png)
+![Screenshot 2](Screenshot%20(4).png)
 
 ### Screenshot 3
-![Screenshot](Screenshot%20(5).png)
+![Screenshot 3](Screenshot%20(5).png)
 
 ### Screenshot 4
-![Screenshot](Screenshot%20(6).png)
+![Screenshot 4](Screenshot%20(6).png)
 
 ### Screenshot 5
-![Screenshot](Screenshot%20(7).png)
-
-## 📈 Key Insights
-
-- Cleaned and prepared the dataset for analysis.
-- Explored disease outbreak patterns using Python.
-- Generated visualizations to better understand the distribution of cases.
-- Identified trends that could support public health monitoring and decision-making.
+![Screenshot 5](Screenshot%20(7).png)
 
 ---
 
-## 🚀 Skills Demonstrated
+## 🔍 Project Tasks
 
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Python Programming
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+The project includes:
+
+- Creating variables to store outbreak information.
+- Calculating active cases.
+- Calculating recovery rate.
+- Updating total reported cases.
+- Checking hospital bed capacity.
+- Determining outbreak severity.
+- Determining whether emergency response is required.
+- Comparing outbreak reports from two different states.
+- Displaying the results using formatted Python output.
+
+---
+
+## 💡 Key Learning Outcomes
+
+Through this project, I strengthened my understanding of:
+
+- Variables and data types
+- Arithmetic operators
+- Assignment operators
+- Comparison operators
+- Logical operators
+- Boolean values
+- Variable naming
+- Formatted output using Python
 
 ---
 
@@ -85,8 +105,6 @@ Disease-Outbreak-Analysis/
 
 **Adeyemi Gladys Toluwalase**
 
-Registered Nurse | Public Health Nurse | Aspiring Healthcare Data Analyst
+GitHub: https://github.com/tolase20
 
-[![GitHub](https://img.shields.io/badge/GitHub-tolase20-black?logo=github)](https://github.com/tolase20)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adeyemi%20Gladys-blue?logo=linkedin)](https://www.linkedin.com/in/toluwalase-adeyemi-a97b54353)
+LinkedIn: https://www.linkedin.com/in/toluwalase-adeyemi-a97b54353
