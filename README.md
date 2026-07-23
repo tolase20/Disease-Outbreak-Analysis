@@ -42,37 +42,22 @@ Disease-Outbreak-Analysis/
 
 ---
 
-## 📊 Analysis Screenshots
+## 📸 Python Implementation (Jupyter Notebook)
 
-### Dataset Preview
+### Screenshot 1
+![Screenshot](Screenshot%20(3).png)
 
-![Dataset Preview](Screenshot%20(3).png)
+### Screenshot 2
+![Screenshot](Screenshot%20(4).png)
 
----
+### Screenshot 3
+![Screenshot](Screenshot%20(5).png)
 
-### Data Cleaning
+### Screenshot 4
+![Screenshot](Screenshot%20(6).png)
 
-![Data Cleaning](Screenshot%20(4).png)
-
----
-
-### Exploratory Data Analysis
-
-![Exploratory Data Analysis](Screenshot%20(5).png)
-
----
-
-### Visualization
-
-![Visualization](Screenshot%20(6).png)
-
----
-
-### Final Results
-
-![Final Results](Screenshot%20(7).png)
-
----
+### Screenshot 5
+![Screenshot](Screenshot%20(7).png)
 
 ## 📈 Key Insights
 
