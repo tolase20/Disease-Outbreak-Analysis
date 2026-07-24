@@ -1,6 +1,6 @@
-# 🦠 Disease Outbreak Tracker
+#  Disease Outbreak Tracker
 
-## 📌 Project Overview
+## Project Overview
 
 This project was completed as part of the Python Study Group practical exercise. It demonstrates the application of fundamental Python concepts to analyze disease outbreak reports and generate useful information from the provided data.
 
@@ -8,7 +8,7 @@ The project focuses on writing Python code to calculate outbreak statistics, eva
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Apply Python fundamentals to a real-world case study.
 - Store outbreak information using variables.
@@ -19,7 +19,7 @@ The project focuses on writing Python code to calculate outbreak statistics, eva
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset was provided as part of the Python Study Group practical exercise.
 
@@ -36,14 +36,14 @@ The dataset contains outbreak information such as:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Jupyter Notebook
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 - `Disease Outbreak tracker (1).ipynb` – Python notebook containing the project solution.
 - `README.md` – Project documentation.
@@ -51,7 +51,7 @@ The dataset contains outbreak information such as:
 
 ---
 
-## 📸 Python Code Screenshots
+## Python Code Screenshots
 
 ### Screenshot 1
 ![Screenshot 1](Screenshot%20(3).png)
@@ -70,7 +70,7 @@ The dataset contains outbreak information such as:
 
 ---
 
-## 🔍 Project Tasks
+## Project Tasks
 
 The project includes:
 
@@ -86,7 +86,7 @@ The project includes:
 
 ---
 
-## 💡 Key Learning Outcomes
+## Key Learning Outcomes
 
 Through this project, I strengthened my understanding of:
 
@@ -101,7 +101,7 @@ Through this project, I strengthened my understanding of:
 
 ---
 
-## 👩🏽‍💻 Author
+##  Author
 
 **Adeyemi Gladys Toluwalase**
 
